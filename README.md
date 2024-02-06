@@ -1,1 +1,2 @@
 # gann
+# gann fan 
